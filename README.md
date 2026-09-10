@@ -8,7 +8,7 @@
 
 
 
-- 🌱 Meus estudos atuais focam em Front-end e Banco de Dados.
+- 🌱 Meus estudos atuais focam em Back-end e Banco de Dados.
 
 - 📫 Este é meu e-mail para contato: **marina.vieiraads@gamil.com**
 
